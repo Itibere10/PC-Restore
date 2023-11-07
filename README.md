@@ -11,8 +11,8 @@ Run this command on ***PowerShell*** as ***Administrator*** to install it:
 ```
 ## Manual software install
 Use this commands to open the essencial software to the atual PC Drivers:
-> NVidia Drivers (To use with games, EasyAntiCheat,optimization, etc)
-> Printer Driver (HP Deskjet 2400 Series)
+* NVidia Drivers (To use with games, EasyAntiCheat,optimization, etc)
+* Printer Driver (HP Deskjet 2400 Series)
 
 ```Batchfile
   start https://printerdrivers.com/hp-deskjet-d2466-driver/ & start https://www.nvidia.com/pt-br/geforce/drivers/
