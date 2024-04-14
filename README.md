@@ -12,7 +12,7 @@ Run this command on ***PowerShell*** as ***Administrator*** to install it:
 
 With Chocolatey installed, run this command:
 ```Batchfile
-  choco install microsoft-windows-terminal steam epicgameslauncher discord spotify git vscode python orwelldevcpp winrar cheatengine javaruntime -r -y
+  choco install microsoft-windows-terminal steam epicgameslauncher discord spotify git vscode python orwelldevcpp winrar cheatengine javaruntime utorrent -r -y
 ```
 
 ## Manual software install
